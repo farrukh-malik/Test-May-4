@@ -1,0 +1,84 @@
+body {
+    font-family: 'Montserrat';font-size: 22px;
+}
+
+#addToCart{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #c63928;
+    color: white;
+    border: 0px
+}
+
+#start{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:#fcd835;
+    color: #2a61fb;
+    border: 0px
+}
+
+#login{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: linear-gradient(to right, #5cd1d5 , #a4d387);
+    color: white;
+    border-radius: 50px 50px 50px 50px;
+    border: 0px
+}
+
+#signUp{
+    border-radius: 5px 5px 5px 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    color: #6749ea;
+    border-color: #6749ea
+}
+
+#subscribe{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    background-color: #f7b232;
+    border: 0px
+}
+
+#twiter{
+    color: #2bbee2;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 100px 100px 100px 100px;
+    border-color: #2bbee2;
+    }
+
+#addToCart:hover{
+    background-color: #ed4d4f
+}
+
+#start:hover{
+    background-color:#2a61fb;
+    color: #fcd835;
+    border: 0px
+}
+
+#login:hover{
+}
+
+#signUp:hover{
+    background-color: #6749ea;
+    color: white;
+    border: 0px
+    /* border-color: #6749ea  */
+}
+
+#subscribe:hover{
+    background-color: #f38d31;
+}
+
+#twiter:hover{
+    color: white;
+    background-color: #2bbee2;
+    border: 0px
+}

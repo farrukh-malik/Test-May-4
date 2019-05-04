@@ -1,0 +1,38 @@
+h1 {
+    font-size: 60px;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+    background-color: #eceff1
+}
+
+.main {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 22px;
+}
+
+#head {
+    background-color: lightgrey
+}
+
+body {
+    background-color: #e2e4e5;
+}
+
+
+.all {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.divimg {
+    margin: 5px;
+    float: left;
+    width: 240px;
+    margin-left: 170px
+}
+
+.divimg:hover{
+    color: #FF0000;
+}
